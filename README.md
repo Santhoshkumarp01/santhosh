@@ -1,6 +1,6 @@
 # Hello, I’m Santhoshkumar P 👋
 
-I’m a passionate software engineer and founder, driven to build scalable, impactful solutions—like Mercari’s marketplace innovations. With expertise in Python, FastAPI, and ML, I’ve led projects like Fit-Tech AI to hackathon victories and funding success. I thrive on solving real-world problems with code, collaboration, and creativity.
+I’m a passionate software engineer and founder, driven to build scalable, impactful solutions. With expertise in Python, FastAPI, and ML, I’ve led projects like Fit-Tech AI to hackathon victories and funding success. I thrive on solving real-world problems with code, collaboration, and creativity.
 
 ---
 
